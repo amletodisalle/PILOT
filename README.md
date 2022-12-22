@@ -20,4 +20,3 @@ b. CNN-word2vec-multiclass.py (RNN-word2vec-multiclass.py) contains the Convolut
 Note 1: Before using the CNN or RNN, please download the word2vec-GoogleNews-vectors from the following link: https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?resourcekey=0-wjGZdNAUop6WykTtMip30g
         and put it to the following folder: word2vec/model 
 Note 2: Before using the CNN or RNN, please run the preprocessing-and-split-word2vec.py file to create the Dataset you want to use. See comments 301-303 on how to utilize it.
-
